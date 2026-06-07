@@ -1,0 +1,36 @@
+{
+  "job_description": "We are looking for a Senior ML Engineer with 5+ years of Python experience, strong background in deep learning frameworks (PyTorch/TensorFlow), experience with NLP, and ideally a fintech domain background.",
+  "candidates": [
+    {
+      "candidate_id": "c_001",
+      "name": "Arjun Sharma",
+      "skills": ["Python", "PyTorch", "NLP", "Transformers", "FastAPI", "Docker"],
+      "years_of_experience": 6,
+      "domain": "Fintech",
+      "education": "M.Tech Computer Science, IIT Delhi",
+      "projects": "Built fraud detection model reducing false positives by 40%",
+      "profile_text": "Senior ML Engineer with 6 years building production ML systems in fintech. Led team of 8 engineers."
+    },
+    {
+      "candidate_id": "c_002",
+      "name": "Priya Mehta",
+      "skills": ["TensorFlow", "Keras", "Python", "Scikit-learn", "AWS"],
+      "years_of_experience": 4,
+      "domain": "Healthcare",
+      "education": "B.Tech CSE, NIT Trichy",
+      "projects": "Medical image classification with 94% accuracy",
+      "profile_text": "ML Engineer with 4 years in healthcare AI. Strong in computer vision and model deployment."
+    },
+    {
+      "candidate_id": "c_003",
+      "name": "Rahul Verma",
+      "skills": ["Python", "Deep Learning", "BERT", "Hugging Face", "LangChain", "PostgreSQL"],
+      "years_of_experience": 5,
+      "domain": "Fintech",
+      "education": "M.Sc Data Science, IISc Bangalore",
+      "projects": "NLP pipeline for credit risk assessment at scale",
+      "profile_text": "ML Engineer specializing in NLP and LLMs, 5 years in fintech building credit scoring systems."
+    }
+  ],
+  "top_k": 3
+}
